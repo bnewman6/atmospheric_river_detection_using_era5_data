@@ -2,6 +2,7 @@
 I used the Cheyenne supercomputer to simulate and analyze integral water vapor transport. Using this data, I wrote a Python program to detect atmospheric rivers.
 
 ![image](https://github.com/bnewman6/atmospheric_river_detection_using_era5_data/assets/114265369/2d5009e8-d4ae-41b9-ae0f-263ba776f4c2)
+Filtered data highlighting an atmospheric river running through the western United States
 
 ## Inspiration
 An atmospheric river (AR) is a stream of water vapor that traditionally moves from the tropics away from the equator. If an AR reaches land that is not prepared for the heavy rainfall that ARs bring, it can be devastating for both humans and animals living there. I wanted to create a program that detects ARs before they reach land in order to predict where rainfall may occur and ensure civilians are prepared for potential heavy rain.
