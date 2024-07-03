@@ -1,4 +1,4 @@
-# atmospheric_river_detection_using_era5_data
+# Atmospheric River Detection Using ERA5 Data
 I used the Cheyenne supercomputer to simulate and analyze integral water vapor transport. Using this data, I wrote a Python program to detect atmospheric rivers.
 
 ![image](https://github.com/bnewman6/atmospheric_river_detection_using_era5_data/assets/114265369/2d5009e8-d4ae-41b9-ae0f-263ba776f4c2)
